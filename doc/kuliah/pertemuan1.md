@@ -5,8 +5,9 @@
 Kecerdasan buatan merupakan kecerdasan yang diciptakan dan dimasukkan ke dalam suatu mesin (komputer) agar dapat melakukan pekerjaan seperti yang dapat dilakukan manusia. Kecerdasan buatan ini juga dapat membuat dan merekayasa mesin (komputer) agar dapat melakukan pekerjaan yang mampu cepat dan tepat. Cepat artinya melakukan segala sesuatu dengan waktu yang singkat dan tepat artinya melakukan segala sesuatu dengan benar.
 
 Dibawah ini terdapat contoh hasil kode aritmatika perhitungan dengan menggunakan bahasa python yang diinput dengan huruf dan outputnya hasil dan durasi waktu pemrosesan.
+
 <p align ="center">
-<img src="../../image/tugas1.PNG" width="600px">
+<img src="../../image/tugas1.png" width="600px">
 </p>
 
 ## Kesimpulan
