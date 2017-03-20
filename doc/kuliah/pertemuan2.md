@@ -1,6 +1,6 @@
 **Pertemuan 2 Kecerdasan Buatan**
 <p align="center">
-  	<img src="/img/tugas2.png">
+  	<img src="/image/tugas2.png">
 </p>
 
 Representasi Pengetahuan merupakan cara untuk menyajikan pengetahuan yang diperoleh ke dalam suatu skema/diagram tertentu sehingga dapat diketahui relasi antara suatu pengetahuan dengan pengetahuan yang lain dan dapat dipakai untuk menguji kebenaran penalarannya.
@@ -11,7 +11,7 @@ Pengetahuan adalah sesuatu yang hadir dan terwujud dalam jiwa dan pikiran seseor
 
 Hubungan antara tahu dengan paham, jika kita tahu belum tentu kita paham, sedangkan jika kita paham udah pasti kita tahu. Proses yang mengubah tahu menjadi paham adalah Berfikir, karena dengan berfikir kita dapat menjadi paham apa yang kita tahu.
 
-Fakta merupakan hal, keadaan, atau peristiwa yang merupakan kenyataan atau sesuatu yang benar-benar terjadi. Contoh : Gilang adalah laki � laki. Jika di bahasa pemrograman contohnya : laki � laki (Gilang)
+Fakta merupakan hal, keadaan, atau peristiwa yang merupakan kenyataan atau sesuatu yang benar-benar terjadi. Contoh : Aldy adalah laki � laki. Jika di bahasa pemrograman contohnya : laki � laki (Aldy)
 
 
 * Nama : Aldy Muldani
