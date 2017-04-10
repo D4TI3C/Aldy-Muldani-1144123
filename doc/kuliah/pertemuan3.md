@@ -14,6 +14,7 @@
 Penjelasan
 
 1. Reasoning adalah proses yang berhubungan dengan pengetahuan, fakta, dan strategi pemecahan masalah (problem solving) untuk mendapatkan konklusi/penyelesaian. Berbagai metode penalaran yang lazim adalah deduksi, induksi, abduktip, analogi, dan akal sehat, berikut ini penjelasan singkatnya. Contoh: Bayu adalah laki - laki
+
 2. Semantik Network adalah representasi grafis deklaratif yang dapat digunakan baik untuk mewakili pengetahuan atau untuk mendukung penalaran pengetahuan sistem otomatis
 
 3. Ciri � ciri dari semantic network terdiri dari :
