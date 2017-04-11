@@ -52,4 +52,4 @@ print "Daerah awal : ", awal
 print "Daerah tujuan : ", tujuan
 
 print "\nSolusi"
-for i, x in enumerate(stack): print i, x
+for i, x in enumerate(stack): print i, x    
